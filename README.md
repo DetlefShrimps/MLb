@@ -1,2 +1,2 @@
 # MLb
-ML to predfict the outcome of Major League Baseball games.
+ML to predict the outcome of Major League Baseball games.
